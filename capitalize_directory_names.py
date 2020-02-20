@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 
-"""capitalize_directory_names.py: Title-case capitalizes the names of subdirectories in a specified directory list."""
+"""Title-case capitalizes the names of subdirectories in a specified directory list."""
 
 
 import os
